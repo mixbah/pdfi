@@ -110,7 +110,7 @@ The solution balances functionality with simplicity, ensuring robust document pr
 
 The application is deployed on Vercel with automatic deployments from the main branch. Database is hosted on MongoDB Atlas for reliability and scalability.
 
-**Live Demo**: [(https://pdfi-gzuak1mov-mixbahs-projects.vercel.app)]
+**Live Demo**: [(https://pdfi-summarizer.vercel.app/)]
 
 ## Development Timeline
 
